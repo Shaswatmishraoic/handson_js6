@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to bottom, lightgray, lightblue);
+  }
+  h1{
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+    font-weight: bold;
+  }
+  pre{
+    color: red;
+  }
